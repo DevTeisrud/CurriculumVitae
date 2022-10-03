@@ -8,14 +8,42 @@
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject private var modelData = ModelData()
+    @State private var selection: Tab = .education
+
+    enum Tab {
+        case education
+        case workExperience
+        case volunteering
+        case me
+    }
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        TabView(selection: $selection) {
+            EducationsHome()
+                .tabItem {
+                    Label("Education", systemImage: "books.vertical")
+                }
+                .tag(Tab.education)
+
+            WorkExperienceHome()
+                .tabItem {
+                    Label("Work Experience", systemImage: "suitcase")
+                }
+                .tag(Tab.workExperience)
+            
+            VolunteeringDetails(volunteering: modelData.volunteering[0])
+                .tabItem {
+                    Label("Volunteering", systemImage: "figure.wave")
+                }
+                .tag(Tab.volunteering)
+            
+            ProfilePage(profile: modelData.profile[0])
+                .tabItem {
+                    Label("Me", systemImage: "person")
+                }
+                .tag(Tab.me)
         }
-        .padding()
     }
 }
 

@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1004,
+        "orgName": "Telenor Norge AS",
+        "role": "Summer Intern",
+        "imageName": "TelenorLogoShort",
+        "bannerName": "TelenorLogoLong",
+        "padding": true,
+        "startDate": "Jun. 2022",
+        "endDate": "Aug. 2022",
+        "geoLocation": "Fornebu",
+        "coordinates": {
+            "longitude": 10.62738,
+            "latitude": 59.89928
+        },
+        "description": "Summer Intern on the project 'BSS(IT) to Cloud'. On this project, we were three people who had to find a method to make Telenor's applications and digital infrastructure more robust. We then integrated Chaos Engineering into the digital intrastructure of Telenor. Regardless of how much error and chaos you add to an application, errors will still occur in the future. Furthermore, during the internship, we developed a more advanced alerting system that enables Telenor to become aware of errors that occur on your digital infrastructure, much faster than before.",
+        "skills": ["Teamarbeid", "Chaos Engineering", "Kubernetes", "Terraform", "Azure Chaos Studio", "Docker", "Programmering", "Python", "Go", "Windows", "PowerPoint", "Git"]
+    },
+    {
+        "id": 1005,
+        "orgName": "Universitetet i Stavanger",
+        "role": "Software Developer",
+        "imageName": "UiSLogoShort",
+        "bannerName": "UiSLogoLong",
+        "padding": true,
+        "startDate": "Jun. 2021",
+        "endDate": "Aug. 2021",
+        "geoLocation": "Stavanger",
+        "coordinates": {
+            "longitude": 5.69736,
+            "latitude": 58.93746
+        },
+        "description": "Was employed after submitting the bachelor's thesis. Here I continue to develop our bachelor's thesis 'QuickFeed', which is an automatic correcting system for assignments and exams in programming.",
+        "skills": ["SwiftUI", "Swift", "Go", "Golang", "gRPC", "Docker", "Git", "Programmering", "iOS", "iOS developing", "MacOS", "Teamwork"]
+    },
+    {
+        "id": 1006,
+        "orgName": "Glencore Nikkelverk AS",
+        "role": "Seasonal Worker",
+        "imageName": "GlencoreLogoLong",
+        "bannerName": "GlencoreLogoLong",
+        "padding": true,
+        "startDate": "Jun. 2020",
+        "endDate": "Aug. 2021",
+        "geoLocation": "Kristiansand",
+        "coordinates": {
+            "longitude": 7.97125,
+            "latitude": 58.13878
+        },
+        "description": "Two summer seasons as holiday substitute at Glencore Nikkelverk AS. Here I worked in a central part of their production.",
+        "skills": []
+    },
+    {
+        "id": 1007,
+        "orgName": "Montér",
+        "role": "Salesperson",
+        "imageName": "MonterLogoShort",
+        "bannerName": "MonterLogoLong",
+        "padding": false,
+        "startDate": "Jun. 2016",
+        "endDate": "Aug. 2019",
+        "geoLocation": "Søgne",
+        "coordinates": {
+            "longitude": 7.81806,
+            "latitude": 58.09193
+        },
+        "description": "Salesman in the building materials industry. Main focus: Building materials, Paint, Tools etc...",
+        "skills": []
+    },
+    {
+        "id": 1008,
+        "orgName": "Bygdegulv",
+        "role": "HandyMan",
+        "imageName": "BygdegulvLogoShort",
+        "bannerName": "BygdegulvLogoShort",
+        "padding": true,
+        "startDate": "Jul. 2014",
+        "endDate": "Aug. 2018",
+        "geoLocation": "Søgne",
+        "coordinates": {
+            "longitude": 7.79842,
+            "latitude": 58.08033
+        },
+        "description": "Surface treatment of solid floors in the evening if necessary.",
+        "skills": []
+    },
+    {
+        "id": 1009,
+        "orgName": "Trine På Gården AS",
+        "role": "Warehouse Manager",
+        "imageName": "TrinePaGardenLogoShort",
+        "bannerName": "TrinePaGardenLogoShort",
+        "padding": false,
+        "startDate": "Aug. 2017",
+        "endDate": "Jul. 2018",
+        "geoLocation": "Kristiansand",
+        "coordinates": {
+            "longitude": 7.95934,
+            "latitude": 58.13645
+        },
+        "description": "Responsible for the main warehouse at Trine På Gården AS.",
+        "skills": []
+    },
+    {
+        "id": 1010,
+        "orgName": "Søgne Skolekorps",
+        "role": "Instructor",
+        "imageName": "SongeSkolekorpsLogoLong",
+        "bannerName": "SongeSkolekorpsLogoLong",
+        "padding": true,
+        "startDate": "Aug. 2014",
+        "endDate": "Jun. 2018",
+        "geoLocation": "Søgne",
+        "coordinates": {
+            "longitude": 7.76550,
+            "latitude": 58.10169
+        },
+        "description": "Responsible for teaching the percussion groups at all levels. At the band's concerts, I was responsible for rigging and programming the lights.",
+        "skills": []
+    }
+]

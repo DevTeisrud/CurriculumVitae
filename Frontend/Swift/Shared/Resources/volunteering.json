@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1002,
+        "orgName": "Indøk Sør",
+        "role": "Event Manager",
+        "imageName": "IndokSorLogoShort",
+        "startDate": "Mar. 2022",
+        "endDate": "->",
+        "geoLocation": "Grimstad",
+        "coordinates": {
+            "longitude": 8.57768,
+            "latitude": 58.33397
+        },
+        "description": "Indøk Sør is the line association for the Master of science studies in Industrial Economics and Technology Management at the University of Agder, Grimstad. Their vision is to be a link between the students and the business world.",
+        "roleDescription": "Beskrivelse av hva jeg gjorde her."
+    }
+]

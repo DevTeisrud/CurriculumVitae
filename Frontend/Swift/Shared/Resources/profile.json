@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1001,
+        "name": "Bjørn Kristian Teisrud",
+        "imageName": "BKT",
+        "coordinates": {
+            "longitude": 7.99771,
+            "latitude": 58.13635
+        },
+        "threeWords": {
+            "ambitious": "Beskrivelse av ambitious",
+            "precise": "Beskrivelse av precise",
+            "teambuilder": "Beskrivelse av teambuilder"
+        },
+        "description": "Beskrivelse av meg."
+    }
+]

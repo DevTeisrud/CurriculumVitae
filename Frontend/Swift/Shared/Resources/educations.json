@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1012,
+        "orgName": "University of Stavanger",
+        "title": "Bachelor of science",
+        "studyProgramme": "Computer Science",
+        "imageName": "UiSLogoLong",
+        "startDate": "Aug. 2018",
+        "endDate": "Jun. 2021",
+        "geoLocation": "Stavanger",
+        "coordinates": {
+            "longitude": 5.69736,
+            "latitude": 58.93746
+        },
+        "universityDescription": "The University of Stavanger (abbreviated UiS) is Norway's fifth university, established on 29 October 2004, when the former Stavanger University College (HiS) received university status.\n \nThe university has 12,617 students and 1,771 employees, and is organized into six faculties:\n\tThe Faculty of Arts and Education\n\tThe Faculty of Social Sciences\n\tThe Faculty of Science and Technology\n\tThe Faculty of Health Sciences\n\tThe Faculty of Performing Arts\n\tUiS Business School\n \nThe Archaeological Museum is also part of the university. The university is also a co-owner of the state-owned company Norwegian Research Centre.\n \nThe university campus is located on Ullandhaug in Stavanger and most institutes and departments are also located here. The headmaster from August 2019 is Klaus Mohn.\n \nIn 2018, UiS was Norway's third highest-ranked university in terms of publication points per academic employee.",
+        "studyDescription": "In the computer science study, you will learn the skills that a software developer needs to know in order to develop new, future-oriented programs. Programming is a key skill here. Other topics are algorithms, web programming, databases and data security. You will also learn the basics of how a computer network such as the Internet is built, and can, through an elective course, gain the knowledge you need to obtain a CISCO certification in the operation of computer networks.",
+        "skills": ["test", "Test"]
+    },
+    {
+        "id": 1011,
+        "orgName": "University of Agder",
+        "title": "Master of science",
+        "studyProgramme": "Industrial Economics and Technology Management",
+        "imageName": "UiALogoLongEnglish",
+        "startDate": "Aug. 2021",
+        "endDate": "Jun. 2023",
+        "geoLocation": "Grimstad",
+        "coordinates": {
+            "longitude": 8.57768,
+            "latitude": 58.33397
+        },
+        "universityDescription": "The University of Agder (abbreviated UiA), formerly known as Agder College and Agder University College, is a public university with campuses in Kristiansand and Grimstad, Norway. The institution was established as a university college in 1994 through the merger of the Agder University College and five other colleges, including a technical college and a nursing school, and was granted the status of a full university in 2007.\n \nThe university has 13,000 students and 1,300 employees, and is organized into six faculties as well as an own unit for teacher education:\n\tSchool of Business and Law\n\tThe Faculty of Social Sciences\n\tThe Faculty of Fine Arts\n\tThe Faculty of Health and Sport Sciences\n\tThe Faculty of Humanities and Education\n\tThe Faculty of Engineering and Science\n\tTeacher Education Unit",
+        "studyDescription": "Industrial economics and technology management lies at the intersection between technology and business. The course is operationally oriented and focuses on important developments in the business world. The combination of knowledge about both technology, finance and management makes you attractive on the job market, with competence to analyse, develop and manage large projects, innovation processes and technology-oriented business areas.",
+        "skills": ["test", "Test"]
+        
+    }
+]
