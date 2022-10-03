@@ -7,22 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D072621D28EB349C00020C40 /* CurriculumVitaeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D072621C28EB349C00020C40 /* CurriculumVitaeApp.swift */; };
-		D072621F28EB349C00020C40 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D072621E28EB349C00020C40 /* ContentView.swift */; };
-		D072622128EB349E00020C40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D072622028EB349E00020C40 /* Assets.xcassets */; };
-		D072622428EB349E00020C40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D072622328EB349E00020C40 /* Preview Assets.xcassets */; };
+		D0F0274528EB404D00F75DF7 /* CurriculumVitaeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0274428EB404D00F75DF7 /* CurriculumVitaeApp.swift */; };
+		D0F0274728EB404D00F75DF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0274628EB404D00F75DF7 /* ContentView.swift */; };
+		D0F0274928EB404E00F75DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0274828EB404E00F75DF7 /* Assets.xcassets */; };
+		D0F0274C28EB404E00F75DF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0274B28EB404E00F75DF7 /* Preview Assets.xcassets */; };
+		D0F0275928EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0275828EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift */; };
+		D0F0275B28EB413700F75DF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0275A28EB413700F75DF7 /* ContentView.swift */; };
+		D0F0275D28EB413800F75DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0275C28EB413800F75DF7 /* Assets.xcassets */; };
+		D0F0276028EB413800F75DF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0275F28EB413800F75DF7 /* Preview Assets.xcassets */; };
+		D0F0276B28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0276A28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift */; };
+		D0F0276D28EB414D00F75DF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0276C28EB414D00F75DF7 /* ContentView.swift */; };
+		D0F0276F28EB414F00F75DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0276E28EB414F00F75DF7 /* Assets.xcassets */; };
+		D0F0277228EB414F00F75DF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0277128EB414F00F75DF7 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D072621928EB349C00020C40 /* CurriculumVitae.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurriculumVitae.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D072621C28EB349C00020C40 /* CurriculumVitaeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumVitaeApp.swift; sourceTree = "<group>"; };
-		D072621E28EB349C00020C40 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D072622028EB349E00020C40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D072622328EB349E00020C40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D0F0274128EB404D00F75DF7 /* CurriculumVitae (iOS).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CurriculumVitae (iOS).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0F0274428EB404D00F75DF7 /* CurriculumVitaeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumVitaeApp.swift; sourceTree = "<group>"; };
+		D0F0274628EB404D00F75DF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D0F0274828EB404E00F75DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D0F0274B28EB404E00F75DF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D0F0275628EB413700F75DF7 /* CurriculumVitae (iPadOS).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CurriculumVitae (iPadOS).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0F0275828EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumVitae__iPadOS_App.swift; sourceTree = "<group>"; };
+		D0F0275A28EB413700F75DF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D0F0275C28EB413800F75DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D0F0275F28EB413800F75DF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D0F0276828EB414D00F75DF7 /* CurriculumVitae (macOS).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CurriculumVitae (macOS).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0F0276A28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumVitae__macOS_App.swift; sourceTree = "<group>"; };
+		D0F0276C28EB414D00F75DF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D0F0276E28EB414F00F75DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D0F0277128EB414F00F75DF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D0F0277328EB414F00F75DF7 /* CurriculumVitae__macOS_.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CurriculumVitae__macOS_.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D072621628EB349C00020C40 /* Frameworks */ = {
+		D0F0273E28EB404D00F75DF7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0F0275328EB413700F75DF7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0F0276528EB414D00F75DF7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,77 +65,168 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D072621028EB349C00020C40 = {
+		D0F0273828EB404D00F75DF7 = {
 			isa = PBXGroup;
 			children = (
-				D072621B28EB349C00020C40 /* CurriculumVitae */,
-				D072621A28EB349C00020C40 /* Products */,
+				D0F0274328EB404D00F75DF7 /* iOS */,
+				D0F0275728EB413700F75DF7 /* iPadOS */,
+				D0F0276928EB414D00F75DF7 /* macOS */,
+				D0F0277728EB415700F75DF7 /* Shared */,
+				D0F0274228EB404D00F75DF7 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D072621A28EB349C00020C40 /* Products */ = {
+		D0F0274228EB404D00F75DF7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D072621928EB349C00020C40 /* CurriculumVitae.app */,
+				D0F0274128EB404D00F75DF7 /* CurriculumVitae (iOS).app */,
+				D0F0275628EB413700F75DF7 /* CurriculumVitae (iPadOS).app */,
+				D0F0276828EB414D00F75DF7 /* CurriculumVitae (macOS).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D072621B28EB349C00020C40 /* CurriculumVitae */ = {
+		D0F0274328EB404D00F75DF7 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				D072621C28EB349C00020C40 /* CurriculumVitaeApp.swift */,
-				D072621E28EB349C00020C40 /* ContentView.swift */,
-				D072622028EB349E00020C40 /* Assets.xcassets */,
-				D072622228EB349E00020C40 /* Preview Content */,
+				D0F0274428EB404D00F75DF7 /* CurriculumVitaeApp.swift */,
+				D0F0274628EB404D00F75DF7 /* ContentView.swift */,
+				D0F0274828EB404E00F75DF7 /* Assets.xcassets */,
+				D0F0274A28EB404E00F75DF7 /* Preview Content */,
 			);
-			path = CurriculumVitae;
+			path = iOS;
 			sourceTree = "<group>";
 		};
-		D072622228EB349E00020C40 /* Preview Content */ = {
+		D0F0274A28EB404E00F75DF7 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				D072622328EB349E00020C40 /* Preview Assets.xcassets */,
+				D0F0274B28EB404E00F75DF7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D0F0275728EB413700F75DF7 /* iPadOS */ = {
+			isa = PBXGroup;
+			children = (
+				D0F0275828EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift */,
+				D0F0275A28EB413700F75DF7 /* ContentView.swift */,
+				D0F0275C28EB413800F75DF7 /* Assets.xcassets */,
+				D0F0275E28EB413800F75DF7 /* Preview Content */,
+			);
+			path = iPadOS;
+			sourceTree = "<group>";
+		};
+		D0F0275E28EB413800F75DF7 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D0F0275F28EB413800F75DF7 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D0F0276928EB414D00F75DF7 /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+				D0F0276A28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift */,
+				D0F0276C28EB414D00F75DF7 /* ContentView.swift */,
+				D0F0276E28EB414F00F75DF7 /* Assets.xcassets */,
+				D0F0277328EB414F00F75DF7 /* CurriculumVitae__macOS_.entitlements */,
+				D0F0277028EB414F00F75DF7 /* Preview Content */,
+			);
+			path = macOS;
+			sourceTree = "<group>";
+		};
+		D0F0277028EB414F00F75DF7 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D0F0277128EB414F00F75DF7 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D0F0277728EB415700F75DF7 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D072621828EB349C00020C40 /* CurriculumVitae */ = {
+		D0F0274028EB404D00F75DF7 /* CurriculumVitae (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D072622728EB349E00020C40 /* Build configuration list for PBXNativeTarget "CurriculumVitae" */;
+			buildConfigurationList = D0F0274F28EB404E00F75DF7 /* Build configuration list for PBXNativeTarget "CurriculumVitae (iOS)" */;
 			buildPhases = (
-				D072621528EB349C00020C40 /* Sources */,
-				D072621628EB349C00020C40 /* Frameworks */,
-				D072621728EB349C00020C40 /* Resources */,
+				D0F0273D28EB404D00F75DF7 /* Sources */,
+				D0F0273E28EB404D00F75DF7 /* Frameworks */,
+				D0F0273F28EB404D00F75DF7 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CurriculumVitae;
+			name = "CurriculumVitae (iOS)";
 			productName = CurriculumVitae;
-			productReference = D072621928EB349C00020C40 /* CurriculumVitae.app */;
+			productReference = D0F0274128EB404D00F75DF7 /* CurriculumVitae (iOS).app */;
+			productType = "com.apple.product-type.application";
+		};
+		D0F0275528EB413700F75DF7 /* CurriculumVitae (iPadOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0F0276128EB413800F75DF7 /* Build configuration list for PBXNativeTarget "CurriculumVitae (iPadOS)" */;
+			buildPhases = (
+				D0F0275228EB413700F75DF7 /* Sources */,
+				D0F0275328EB413700F75DF7 /* Frameworks */,
+				D0F0275428EB413700F75DF7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CurriculumVitae (iPadOS)";
+			productName = "CurriculumVitae (iPadOS)";
+			productReference = D0F0275628EB413700F75DF7 /* CurriculumVitae (iPadOS).app */;
+			productType = "com.apple.product-type.application";
+		};
+		D0F0276728EB414D00F75DF7 /* CurriculumVitae (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0F0277428EB414F00F75DF7 /* Build configuration list for PBXNativeTarget "CurriculumVitae (macOS)" */;
+			buildPhases = (
+				D0F0276428EB414D00F75DF7 /* Sources */,
+				D0F0276528EB414D00F75DF7 /* Frameworks */,
+				D0F0276628EB414D00F75DF7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CurriculumVitae (macOS)";
+			productName = "CurriculumVitae (macOS)";
+			productReference = D0F0276828EB414D00F75DF7 /* CurriculumVitae (macOS).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D072621128EB349C00020C40 /* Project object */ = {
+		D0F0273928EB404D00F75DF7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1400;
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
-					D072621828EB349C00020C40 = {
+					D0F0274028EB404D00F75DF7 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					D0F0275528EB413700F75DF7 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					D0F0276728EB414D00F75DF7 = {
 						CreatedOnToolsVersion = 14.0.1;
 					};
 				};
 			};
-			buildConfigurationList = D072621428EB349C00020C40 /* Build configuration list for PBXProject "CurriculumVitae" */;
+			buildConfigurationList = D0F0273C28EB404D00F75DF7 /* Build configuration list for PBXProject "CurriculumVitae" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +234,80 @@
 				en,
 				Base,
 			);
-			mainGroup = D072621028EB349C00020C40;
-			productRefGroup = D072621A28EB349C00020C40 /* Products */;
+			mainGroup = D0F0273828EB404D00F75DF7;
+			productRefGroup = D0F0274228EB404D00F75DF7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D072621828EB349C00020C40 /* CurriculumVitae */,
+				D0F0274028EB404D00F75DF7 /* CurriculumVitae (iOS) */,
+				D0F0275528EB413700F75DF7 /* CurriculumVitae (iPadOS) */,
+				D0F0276728EB414D00F75DF7 /* CurriculumVitae (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D072621728EB349C00020C40 /* Resources */ = {
+		D0F0273F28EB404D00F75DF7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D072622428EB349E00020C40 /* Preview Assets.xcassets in Resources */,
-				D072622128EB349E00020C40 /* Assets.xcassets in Resources */,
+				D0F0274C28EB404E00F75DF7 /* Preview Assets.xcassets in Resources */,
+				D0F0274928EB404E00F75DF7 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0F0275428EB413700F75DF7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0F0276028EB413800F75DF7 /* Preview Assets.xcassets in Resources */,
+				D0F0275D28EB413800F75DF7 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0F0276628EB414D00F75DF7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0F0277228EB414F00F75DF7 /* Preview Assets.xcassets in Resources */,
+				D0F0276F28EB414F00F75DF7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D072621528EB349C00020C40 /* Sources */ = {
+		D0F0273D28EB404D00F75DF7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D072621F28EB349C00020C40 /* ContentView.swift in Sources */,
-				D072621D28EB349C00020C40 /* CurriculumVitaeApp.swift in Sources */,
+				D0F0274728EB404D00F75DF7 /* ContentView.swift in Sources */,
+				D0F0274528EB404D00F75DF7 /* CurriculumVitaeApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0F0275228EB413700F75DF7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0F0275B28EB413700F75DF7 /* ContentView.swift in Sources */,
+				D0F0275928EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0F0276428EB414D00F75DF7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0F0276D28EB414D00F75DF7 /* ContentView.swift in Sources */,
+				D0F0276B28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		D072622528EB349E00020C40 /* Debug */ = {
+		D0F0274D28EB404E00F75DF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -205,7 +367,7 @@
 			};
 			name = Debug;
 		};
-		D072622628EB349E00020C40 /* Release */ = {
+		D0F0274E28EB404E00F75DF7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -259,7 +421,7 @@
 			};
 			name = Release;
 		};
-		D072622828EB349E00020C40 /* Debug */ = {
+		D0F0275028EB404E00F75DF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -273,8 +435,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -282,13 +444,16 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = no.teisrud.CurriculumVitae;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		D072622928EB349E00020C40 /* Release */ = {
+		D0F0275128EB404E00F75DF7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -302,8 +467,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,34 +476,177 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = no.teisrud.CurriculumVitae;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		D0F0276228EB413800F75DF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CurriculumVitae (iPadOS)/Preview Content\"";
+				DEVELOPMENT_TEAM = JFQR2M654C;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "no.teisrud.CurriculumVitae--iPadOS-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		D0F0276328EB413800F75DF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CurriculumVitae (iPadOS)/Preview Content\"";
+				DEVELOPMENT_TEAM = JFQR2M654C;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "no.teisrud.CurriculumVitae--iPadOS-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+		D0F0277528EB414F00F75DF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "CurriculumVitae (macOS)/CurriculumVitae__macOS_.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CurriculumVitae (macOS)/Preview Content\"";
+				DEVELOPMENT_TEAM = JFQR2M654C;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "no.teisrud.CurriculumVitae--macOS-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		D0F0277628EB414F00F75DF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "CurriculumVitae (macOS)/CurriculumVitae__macOS_.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CurriculumVitae (macOS)/Preview Content\"";
+				DEVELOPMENT_TEAM = JFQR2M654C;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "no.teisrud.CurriculumVitae--macOS-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D072621428EB349C00020C40 /* Build configuration list for PBXProject "CurriculumVitae" */ = {
+		D0F0273C28EB404D00F75DF7 /* Build configuration list for PBXProject "CurriculumVitae" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D072622528EB349E00020C40 /* Debug */,
-				D072622628EB349E00020C40 /* Release */,
+				D0F0274D28EB404E00F75DF7 /* Debug */,
+				D0F0274E28EB404E00F75DF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D072622728EB349E00020C40 /* Build configuration list for PBXNativeTarget "CurriculumVitae" */ = {
+		D0F0274F28EB404E00F75DF7 /* Build configuration list for PBXNativeTarget "CurriculumVitae (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D072622828EB349E00020C40 /* Debug */,
-				D072622928EB349E00020C40 /* Release */,
+				D0F0275028EB404E00F75DF7 /* Debug */,
+				D0F0275128EB404E00F75DF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0F0276128EB413800F75DF7 /* Build configuration list for PBXNativeTarget "CurriculumVitae (iPadOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0F0276228EB413800F75DF7 /* Debug */,
+				D0F0276328EB413800F75DF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0F0277428EB414F00F75DF7 /* Build configuration list for PBXNativeTarget "CurriculumVitae (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0F0277528EB414F00F75DF7 /* Debug */,
+				D0F0277628EB414F00F75DF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D072621128EB349C00020C40 /* Project object */;
+	rootObject = D0F0273928EB404D00F75DF7 /* Project object */;
 }

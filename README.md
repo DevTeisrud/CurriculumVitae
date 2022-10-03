@@ -11,7 +11,18 @@ CurriculumVitae
     │   README.md
     │
     └───Swift
+    │   │   README.md
     │   │   CurriculumVitae.xcodeproj
+    │   │
+    │   └───iOS
+    │   │
+    │   └───iPadOS
+    │   │
+    │   └───macOS
+    │   │
+    │   └───Shared
+    │   │
+    │   └───Images
     │ 
     └───Web
 
