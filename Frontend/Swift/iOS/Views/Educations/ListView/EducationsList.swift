@@ -1,6 +1,6 @@
 //
 //  EducationsList.swift
-//  CurriculumVitaeTeisrud
+//  CurriculumVitae
 //
 //  Created by Bjørn Kristian Teisrud on 10/09/2022.
 //

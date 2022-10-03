@@ -1,6 +1,6 @@
 //
 //  CircleImage.swift
-//  CurriculumVitaeTeisrud
+//  CurriculumVitae
 //
 //  Created by Bjørn Kristian Teisrud on 30/08/2022.
 //
