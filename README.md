@@ -1,20 +1,18 @@
 # CurriculumVitae
 ## Structure
 ```
-project
-│   README.md
-│   file001.txt    
+CurriculumVitae
+│   README.md  
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└───Backend
+│   │   README.md
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───Frontend
+    │   README.md
+    │
+    └───Swift
+    │   │   CurriculumVitae.xcodeproj
+    │ 
+    └───Web
+
 ```
