@@ -7,35 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D07A277328EB569200601019 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D07A277228EB569200601019 /* Assets.xcassets */; };
+		D07A277428EB569200601019 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D07A277228EB569200601019 /* Assets.xcassets */; };
+		D07A277528EB569200601019 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D07A277228EB569200601019 /* Assets.xcassets */; };
 		D0F0274528EB404D00F75DF7 /* CurriculumVitaeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0274428EB404D00F75DF7 /* CurriculumVitaeApp.swift */; };
 		D0F0274728EB404D00F75DF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0274628EB404D00F75DF7 /* ContentView.swift */; };
-		D0F0274928EB404E00F75DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0274828EB404E00F75DF7 /* Assets.xcassets */; };
 		D0F0274C28EB404E00F75DF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0274B28EB404E00F75DF7 /* Preview Assets.xcassets */; };
 		D0F0275928EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0275828EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift */; };
 		D0F0275B28EB413700F75DF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0275A28EB413700F75DF7 /* ContentView.swift */; };
-		D0F0275D28EB413800F75DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0275C28EB413800F75DF7 /* Assets.xcassets */; };
 		D0F0276028EB413800F75DF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0275F28EB413800F75DF7 /* Preview Assets.xcassets */; };
 		D0F0276B28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0276A28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift */; };
 		D0F0276D28EB414D00F75DF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F0276C28EB414D00F75DF7 /* ContentView.swift */; };
-		D0F0276F28EB414F00F75DF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0276E28EB414F00F75DF7 /* Assets.xcassets */; };
 		D0F0277228EB414F00F75DF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F0277128EB414F00F75DF7 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D07A277228EB569200601019 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0F0274128EB404D00F75DF7 /* CurriculumVitae (iOS).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CurriculumVitae (iOS).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0F0274428EB404D00F75DF7 /* CurriculumVitaeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumVitaeApp.swift; sourceTree = "<group>"; };
 		D0F0274628EB404D00F75DF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D0F0274828EB404E00F75DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0F0274B28EB404E00F75DF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D0F0275628EB413700F75DF7 /* CurriculumVitae (iPadOS).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CurriculumVitae (iPadOS).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0F0275828EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumVitae__iPadOS_App.swift; sourceTree = "<group>"; };
 		D0F0275A28EB413700F75DF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D0F0275C28EB413800F75DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0F0275F28EB413800F75DF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D0F0276828EB414D00F75DF7 /* CurriculumVitae (macOS).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CurriculumVitae (macOS).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0F0276A28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurriculumVitae__macOS_App.swift; sourceTree = "<group>"; };
 		D0F0276C28EB414D00F75DF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D0F0276E28EB414F00F75DF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0F0277128EB414F00F75DF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D0F0277328EB414F00F75DF7 /* CurriculumVitae__macOS_.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CurriculumVitae__macOS_.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -91,7 +89,6 @@
 			children = (
 				D0F0274428EB404D00F75DF7 /* CurriculumVitaeApp.swift */,
 				D0F0274628EB404D00F75DF7 /* ContentView.swift */,
-				D0F0274828EB404E00F75DF7 /* Assets.xcassets */,
 				D0F0274A28EB404E00F75DF7 /* Preview Content */,
 			);
 			path = iOS;
@@ -110,7 +107,6 @@
 			children = (
 				D0F0275828EB413700F75DF7 /* CurriculumVitae__iPadOS_App.swift */,
 				D0F0275A28EB413700F75DF7 /* ContentView.swift */,
-				D0F0275C28EB413800F75DF7 /* Assets.xcassets */,
 				D0F0275E28EB413800F75DF7 /* Preview Content */,
 			);
 			path = iPadOS;
@@ -129,7 +125,6 @@
 			children = (
 				D0F0276A28EB414D00F75DF7 /* CurriculumVitae__macOS_App.swift */,
 				D0F0276C28EB414D00F75DF7 /* ContentView.swift */,
-				D0F0276E28EB414F00F75DF7 /* Assets.xcassets */,
 				D0F0277328EB414F00F75DF7 /* CurriculumVitae__macOS_.entitlements */,
 				D0F0277028EB414F00F75DF7 /* Preview Content */,
 			);
@@ -147,6 +142,7 @@
 		D0F0277728EB415700F75DF7 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				D07A277228EB569200601019 /* Assets.xcassets */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -252,7 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0F0274C28EB404E00F75DF7 /* Preview Assets.xcassets in Resources */,
-				D0F0274928EB404E00F75DF7 /* Assets.xcassets in Resources */,
+				D07A277328EB569200601019 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,7 +257,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0F0276028EB413800F75DF7 /* Preview Assets.xcassets in Resources */,
-				D0F0275D28EB413800F75DF7 /* Assets.xcassets in Resources */,
+				D07A277428EB569200601019 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0F0277228EB414F00F75DF7 /* Preview Assets.xcassets in Resources */,
-				D0F0276F28EB414F00F75DF7 /* Assets.xcassets in Resources */,
+				D07A277528EB569200601019 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
