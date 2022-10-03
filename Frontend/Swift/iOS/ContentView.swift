@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  CurriculumVitae
+//  iOS
 //
 //  Created by Bjørn Kristian Teisrud on 03/10/2022.
 //

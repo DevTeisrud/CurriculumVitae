@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D09410BD28EB67D5002FC78F"
-               BuildableName = "CurriculumVitae (iOS).app"
-               BlueprintName = "CurriculumVitae (iOS)"
+               BlueprintIdentifier = "D09410E128EB686A002FC78F"
+               BuildableName = "CurriculumVitae (macOS).app"
+               BlueprintName = "CurriculumVitae (macOS)"
                ReferencedContainer = "container:CurriculumVitae.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -44,9 +44,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D09410BD28EB67D5002FC78F"
-            BuildableName = "CurriculumVitae (iOS).app"
-            BlueprintName = "CurriculumVitae (iOS)"
+            BlueprintIdentifier = "D09410E128EB686A002FC78F"
+            BuildableName = "CurriculumVitae (macOS).app"
+            BlueprintName = "CurriculumVitae (macOS)"
             ReferencedContainer = "container:CurriculumVitae.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -61,9 +61,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D09410BD28EB67D5002FC78F"
-            BuildableName = "CurriculumVitae (iOS).app"
-            BlueprintName = "CurriculumVitae (iOS)"
+            BlueprintIdentifier = "D09410E128EB686A002FC78F"
+            BuildableName = "CurriculumVitae (macOS).app"
+            BlueprintName = "CurriculumVitae (macOS)"
             ReferencedContainer = "container:CurriculumVitae.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
